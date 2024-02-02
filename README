@@ -23,4 +23,4 @@ The Audio File Analyzer is a Python-based desktop application designed for analy
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Ethanol-98/audio-frequency-visualization?tab=readme-ov-file
