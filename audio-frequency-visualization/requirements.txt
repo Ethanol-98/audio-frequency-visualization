@@ -1,0 +1,6 @@
+librosa>=0.9.1
+matplotlib>=3.4.2
+numpy>=1.21.0
+scipy>=1.7.1
+audioread>=2.1.9
+Pillow>=8.2.0

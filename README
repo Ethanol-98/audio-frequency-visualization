@@ -1,0 +1,26 @@
+# Audio File Analyzer Application
+
+The Audio File Analyzer is a Python-based desktop application designed for analyzing and visualizing audio files. Built with Tkinter, Librosa, Matplotlib, and PIL (Pillow), it offers users the ability to upload audio files, adjust their volume, visualize their waveforms, and embed custom metadata into the output visualizations.
+
+## Features
+
+- **Multiple Audio File Uploads:** Supports uploading and processing multiple audio files simultaneously.
+- **Volume Adjustment:** Allows users to amplify or attenuate the audio signal before visualization.
+- **Waveform Visualization:** Generates and displays a waveform plot for each audio file.
+- **Metadata Embedding:** Users can input custom metadata to be embedded into the waveform visualization images.
+- **Output DPI Selection:** Enables selecting the resolution (DPI) for the output images.
+- **Progress Feedback:** Displays a progress bar during the processing of multiple files.
+- **Conditional Progress Bar Display:** The progress bar is shown only when processing multiple files.
+
+## Installation
+
+### Prerequisites
+
+- Python 3.6 or later
+- Pip for installing Python packages
+
+### Setup
+
+1. Clone the repository to your local machine:
+   ```sh
+   git clone https://github.com/yourusername/your-repo-name.git
